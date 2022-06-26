@@ -1,13 +1,7 @@
-<?php
-//include auth_session.php file for authetication
-//include("auth_session.php");
-//include("db/active_users.php");
-
-
-?>
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Realtime Chat Application</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <style>
       input,
